@@ -183,12 +183,12 @@ a:focus {
     width: 100%;
 }
 
-.about-img {
+.about_img-box .about-img {
     width: 100%;
-    height: auto;      /* Keeps aspect ratio */
-    display: block;    /* Removes bottom spacing */
-    object-fit: cover; /* Optional: crops instead of stretching */
+    height: auto;      /* keeps the image responsive */
+    display: block;
 }
+
 
 /* hero section */
 .hero-container {
