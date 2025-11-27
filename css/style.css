@@ -1,7 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
 
-  color: #48494a;
+  color: #48494a !important;
   background-image: url(../image/body-bg.jpg);
 }
 
