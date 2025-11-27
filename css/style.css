@@ -179,6 +179,16 @@ a:focus {
 }
 
 /*end header section*/
+.about_img-box {
+    width: 100%;
+}
+
+.about-img {
+    width: 100%;
+    height: auto;      /* Keeps aspect ratio */
+    display: block;    /* Removes bottom spacing */
+    object-fit: cover; /* Optional: crops instead of stretching */
+}
 
 /* hero section */
 .hero-container {
